@@ -1,0 +1,29 @@
+.pop-up {
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: grey;
+  width: 500px;
+  height: 130px;
+  padding: 10px;  
+}
+.title-group{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 3px;
+}
+.title-name{
+    font-size: 20px;
+}
+.title-members{
+    font-size: 20px;
+}
+.button-close{
+    font-size: 20px;
+    width: 100px;
+    height: 40px;
+    margin-left: 43%;
+    margin-top: 18px;
+} 
